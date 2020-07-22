@@ -16,3 +16,9 @@ $ ./project.exe
   - Using **UP**, **LEFT**, **RIGHT** keys to control the move of the Pikachu.
   - The corresponding scores will be shown on two sides of the window.
   ![image](img/pic1.png)
+
+- How it works
+![image](img/pic2.jpg)
+![image](img/pic3.jpg)
+![image](img/pic4.jpg)
+![image](img/pic5.jpg)
